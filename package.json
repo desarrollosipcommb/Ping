@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "",
   "scripts": {
     "start": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +14,6 @@
     "nodemailer": "^6.9.1"
   },
   "devDependencies": {
-    "nodemon": "2.0.20" 
+    "nodemon": "2.0.20"
   }
 }
